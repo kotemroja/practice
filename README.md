@@ -1,4 +1,4 @@
 # practice
-Author- Roja Kotem
+Author- Roja K
 <br>
 Getting familiar with the github
